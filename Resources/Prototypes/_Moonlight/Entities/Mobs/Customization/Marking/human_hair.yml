@@ -1,0 +1,6 @@
+- type: marking
+  id: MediumMessyHair
+  bodyPart: Hair
+  sprites:
+    - sprite: _Moonlight/Mobs/Customization/human_hair.rsi/
+      state: medium_messy
